@@ -11,6 +11,8 @@ Collect productivity tools for Android application development.
 
 2.[https://www.buzzingandroid.com/tools/android-layout-finder/](https://www.buzzingandroid.com/tools/android-layout-finder/)
 
+可选特性: 支持针对ViewHolder , Adapter生成代码
+
 ### json
 下面是一些根据json生成实体类(POJO)的工具：
 
