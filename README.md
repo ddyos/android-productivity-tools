@@ -14,9 +14,15 @@ Collect productivity tools for Android application development.
 ### json
 下面是一些根据json生成实体类(POJO)的工具：
 
-1.[http://www.jsonschema2pojo.org/](http://www.jsonschema2pojo.org/)
+1.[jonfhancock/JsonToJava](https://github.com/jonfhancock/JsonToJava)
 
-2.[http://bejson.com/json2javapojo/](http://bejson.com/json2javapojo/)
+可选特性:可以通过url提供json , 支持 Implement Parcelable ,Include Gson Annotations ,Override toString() 
 
-其中bejson.com还有json格式化校验,xml转json等功能.
+2.[http://www.jsonschema2pojo.org/](http://www.jsonschema2pojo.org/)
+
+可选特性:支持 Jackson , Gson ,Include hashCode and equals,Include toString 等
+
+3.[http://bejson.com/json2javapojo/](http://bejson.com/json2javapojo/)
+
+还有json格式化校验,xml转json等功能.
 
