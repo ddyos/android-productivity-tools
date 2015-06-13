@@ -26,5 +26,5 @@ Collect productivity tools for Android application development.
 
 3.[http://bejson.com/json2javapojo/](http://bejson.com/json2javapojo/)
 
-还有json格式化校验,xml转json等功能.
+可选特性:json格式化校验,xml转json等
 
