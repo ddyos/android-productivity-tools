@@ -9,6 +9,8 @@ Collect productivity tools for Android application development.
 
 1.[http://android.lineten.net/layout.php](http://android.lineten.net/layout.php)
 
+可选特性:支持生成Android Annotations注解代码(将懒进行到底)
+
 2.[https://www.buzzingandroid.com/tools/android-layout-finder/](https://www.buzzingandroid.com/tools/android-layout-finder/)
 
 可选特性: 支持针对ViewHolder , Adapter生成代码
