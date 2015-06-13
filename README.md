@@ -1,9 +1,10 @@
 # android-productivity-tools
 Collect productivity tools for Android application development.
+
 收集一些提高Android开发效率的工具。
 
 ## 代码生成
-### 成findViewById
+### findViewById
 现在有很多框架可以通过注解去简化绑定xml中的控件的过程,不过有时候项目中并不方便引入这些框架,下面是一些可以生成findViewById语句的工具：
 
 1.[http://android.lineten.net/layout.php](http://android.lineten.net/layout.php)
