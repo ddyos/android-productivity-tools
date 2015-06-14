@@ -30,3 +30,18 @@ Collect productivity tools for Android application development.
 
 可选特性:json格式化校验,xml转json等
 
+### Parcelable
+Parcelable是官方推荐的序列化方式，效率比Serializable高，但使用起来较麻烦，下面是一些简化工具：
+
+1.[johncarl81/parceler](https://github.com/johncarl81/parceler)
+
+通过注解和工具类简化Parcelable的使用
+
+2.[baoyongzhang/ParcelableGenerator](https://github.com/baoyongzhang/ParcelableGenerator)
+
+通过注解简化Parcelable的使用
+
+3.[mcharmas/android-parcelable-intellij-plugin](https://github.com/mcharmas/android-parcelable-intellij-plugin)
+
+Android Studio插件，用于生成Parcelable代码
+
